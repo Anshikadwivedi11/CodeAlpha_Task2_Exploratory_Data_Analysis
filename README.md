@@ -19,24 +19,41 @@ Perform Exploratory Data Analysis (EDA) on Netflix's dataset to uncover hidden p
 - Jupyter Notebook (via Anaconda)
 
 ## 📌 Key Analysis Performed
-- **Movies vs TV Shows Count**
-- **Top 10 Countries with Most Netflix Content**
-- **Content Addition Trends Over the Years**
-- **Year-wise Additions of Movies and TV Shows**
-- **Missing Value Detection**
-- **Data Type Checking and Transformation**
+- Movies vs TV Shows Count
+- Top 10 Countries with Most Netflix Content
+- Content Addition Trends Over the Years
+- Year-wise Additions of Movies and TV Shows
+- Missing Value Detection
+- Data Type Checking and Transformation
+
+## 📸 Screenshots
+
+### 🔹 Dataset Preview  
+![Dataset Preview](./screenshots/1_dataset_preview.png)
+
+### 🔹 Dataset Info  
+![Dataset Info](./screenshots/2_dataset_info.png)
+
+### 🔹 Count of Content Types  
+![Content Types Count](./screenshots/3_plot_content_type_count.png)
+
+### 🔹 Top 10 Countries with Most Content  
+![Top Countries](./screenshots/4_plot_top_countries.png)
+
+### 🔹 Movies vs TV Shows Over Time  
+![Over Time Trends](./screenshots/5_plot_content_over_time.png)
 
 ## 📂 Files Included
-- `CodeAlpha_Task2_EDA.ipynb` - Jupyter notebook with code and EDA
-- `netflix_titles.csv` - Raw dataset
-
-## 📸 Output Samples
-*(You can add screenshots later if you want to visually showcase the graphs)*
+- `CodeAlpha_Task2_Exploratory_Data_Analysis_Netflix.ipynb` – Jupyter notebook with complete EDA code and outputs
+- `netflix_titles.csv` – Raw dataset
+- `screenshots/` – Folder containing output visuals
 
 ## 🏁 Outcome
-This task helped understand:
-- Global content trends
-- Data quality issues
-- Use of Python for real-world data analysis
-# CodeAlpha_Task2_Exploratory_Data_Analysis
-Exploratory Data Analysis of Netflix Dataset for CodeAlpha Internship
+This task helped develop practical skills in:
+- Handling real-world datasets
+- Identifying trends and data insights
+- Using Python for data analysis
+
+---
+
+✅ **Successfully Completed for CodeAlpha Internship – June 2025**
